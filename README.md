@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>CLI Application for IP and Server Name Lookup</title>
 </head>
 <body>
   <h1>CLI Application for IP and Server Name Lookup</h1>
